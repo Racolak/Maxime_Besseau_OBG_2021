@@ -8,6 +8,7 @@ TagManager:
   - Good
   - Slippy
   - Wall
+  - Horizontal_Wall
   layers:
   - Default
   - TransparentFX
